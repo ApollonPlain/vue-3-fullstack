@@ -1,0 +1,38 @@
+const submissions = [
+  {
+    id: 1,
+    title: "Yellow Pail",
+    description: "On-demand sand castle construction expertise.",
+    url: "#",
+    votes: 16,
+    avatar: "../public/images/avatars/daniel.jpg",
+    submissionImage: "../public/images/submissions/image-yellow.png",
+  },
+  {
+    id: 2,
+    title: "tes2",
+    description: "On-demand sand castle construction expertise.",
+    url: "#",
+    votes: 17,
+    avatar: "../public/images/avatars/daniel.jpg",
+    submissionImage: "../public/images/submissions/image-yellow.png",
+  },
+  {
+    id: 3,
+    title: "azert",
+    description: "On-demand sand castle construction expertise.",
+    url: "#",
+    votes: 26,
+    avatar: "../public/images/avatars/daniel.jpg",
+    submissionImage: "../public/images/submissions/image-yellow.png",
+  },
+  {
+    id: 4,
+    title: "je test",
+    description: "On-demand sand castle construction expertise.",
+    url: "#",
+    votes: 7,
+    avatar: "../public/images/avatars/daniel.jpg",
+    submissionImage: "../public/images/submissions/image-yellow.png",
+  },
+];
